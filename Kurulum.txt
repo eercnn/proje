@@ -1,0 +1,3 @@
+Php MySQL bağlantısı için MYSQLI index.php:182 		$this->mysql = new MYSQLI('localhost','root','asd123123','datatable');
+React sorgu adresi için src/components/Ekle.jsx:24 	const fetchResponse = await fetch(`http://localhost/prj/index.php?s=ekle`, settings);
+React tüm sorgu için src/components/Icerik.js:10	fetch("http://localhost/prj/",{
